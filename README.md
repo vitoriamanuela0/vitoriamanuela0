@@ -1,7 +1,13 @@
-🚀 Estudante de Desenvolvimento Web com foco em JAVA | Bootcamp Generation Brasil (HTML, CSS, Java, Spring, APIs, SQL, Lógica de Programação)  
-🌐 Curso Fullstack na Vai na Web (HTML, CSS, JavaScript, SCSS, React, Python, JSX)  
-💻 Aprendendo a criar aplicações web completas com HTML, CSS, JavaScript, Spring Boot e RESTful APIs  
-🔍 Focado em boas práticas de desenvolvimento, Git, GitHub e otimização de código  
-💡 Apaixonado por tecnologia e em busca de soluções inovadoras e eficientes  
-📂 Compartilhando projetos e aprendizados no meu caminho para me tornar um desenvolvedor fullstack!  
-📬 Contato: contatodavitoria@email.com
+# Olá, eu sou Vitória Manuela 👨‍💻
+
+Sou uma estudante apaixonada por tecnologia, em busca de soluções inovadoras e eficientes. Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explorando o mundo do desenvolvimento fullstack, com foco em JAVA.
+
+### 🚀 O que estou aprendendo
+- **Bootcamp Generation Brasil**: Java, Spring, APIs, SQL, Lógica de Programação.
+- **Curso Fullstack Vai na Web**: HTML, CSS, JavaScript, React, Python, SCSS.
+
+### 📬 Me encontre
+- **Email**: contatodavitoria@email.com
+- **LinkedIn**: linkedin.com/in/joaosilva)](https://www.linkedin.com/in/vitoria-manuela/
+
+  **"Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
