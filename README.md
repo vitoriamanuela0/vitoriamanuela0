@@ -8,6 +8,6 @@ Sou uma estudante apaixonada por tecnologia, em busca de soluções inovadoras e
 
 ### 📬 Me encontre
 - **Email**: contatodavitoria@email.com
-- **LinkedIn**: linkedin.com/in/vitoria-manuela/
+- **LinkedIn**: https://www.linkedin.com/in/vitoria-manuela/
 
   **"Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
