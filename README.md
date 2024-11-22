@@ -4,7 +4,7 @@ Sou uma estudante apaixonada por tecnologia, em busca de soluções inovadoras e
 
 ### 🚀 O que estou aprendendo
 - **Bootcamp Generation Brasil**: Java, Spring, APIs, SQL, Lógica de Programação.
-- **Curso Fullstack Vai na Web**: HTML, CSS, JavaScript, React, Python, SCSS.
+- **Curso Fullstack Vai na Web**: HTML, SCSS, JavaScript, React, Python, SQL.
 
 ### 📬 Me encontre
 - **Email**: contatodavitoria@email.com
