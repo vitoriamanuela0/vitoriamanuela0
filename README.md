@@ -14,7 +14,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 - **Análise e desenvovimento de sistemas - tecnólogo**
 - **Sitema da Informação - Bacharel**
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
 
 ## Habilidades técnicas:
 
