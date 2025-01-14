@@ -15,8 +15,8 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 - **<Hello, ONE!/> - Oracle + Alura**
 - **BootCamp FullStack em Java e React - Generation Brasil**
 - **Desenvolvedora FullStack - Vai na Web**
-- **Análise e desenvovimento de sistemas - tecnólogo**
-- **Sitema da Informação - Bacharel**
+- **Análise e desenvovimento de sistemas - Tecnólogo**
+- **Sitema da Informação - Bacharelado**
 
 ## Habilidades técnicas:
 
