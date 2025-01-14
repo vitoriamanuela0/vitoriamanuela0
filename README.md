@@ -1,6 +1,7 @@
 # Olá, Mundo! Vitória Manuela aqui 👋
 
-![readme](https://github.com/user-attachments/assets/b9c3ded1-eb0b-4be8-9880-16cbc402e857)
+![readme (1)](https://github.com/user-attachments/assets/0bc8208c-f677-49cd-a7ec-cc4b9a55940b)
+
 
 
 ## Sou apaixonada por tecnologia e estou sempre em busca de soluções inovadoras ❤️💻
