@@ -41,6 +41,14 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
    [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
 
 
+<div align="center">
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoriamanuela0/vitoriamanuela0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: pink)" srcset="https://raw.githubusercontent.com/vitoriamanuela0/vitoriamanuela0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitoriamanuela0/vitoriamanuela0/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 
 ## 📬 Me encontre
 
@@ -51,5 +59,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoriamanuela0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamanuela0&layout=compact&langs_count=16&theme=gotham"/>
+
+
 
   **"Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
