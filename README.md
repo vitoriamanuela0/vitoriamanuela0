@@ -55,12 +55,12 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-manuela/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contatodavitoria@email.com)
 
-
-
-
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 <br>
 
   ### "Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
