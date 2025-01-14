@@ -1,8 +1,9 @@
 # Olá, Mundo! Vitória Manuela aqui 👋
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/d4cdffb3-f715-4f8a-845b-6b492c89bafc" />
-</div>
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Logo_git.svg/320px-Logo_git.svg.png" width="50" />
+</center>
+
 
 
 ## Sou apaixonada por tecnologia e estou sempre em busca de soluções inovadoras ❤️💻
