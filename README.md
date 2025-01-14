@@ -28,7 +28,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   
-- **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman;
+- **Ferramentas:** Git, GitHub, Discord, Postman, Figma, Windows, Vercel e Insomnia;
 
    [![My Skills](https://skillicons.dev/icons?i=git,github,discord,postman,figma,windows,vercel)](https://skillicons.dev)
 
@@ -40,7 +40,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 ## 📬 Me encontre
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/danieldossantoslima/](https://www.linkedin.com/in/vitoria-manuela/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-manuela/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contatodavitoria@email.com)
 
 
