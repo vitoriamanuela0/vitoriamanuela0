@@ -23,6 +23,10 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 - **Banco de dados:** MySQL;
 - **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
 
+- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+- ![Java](https://upload.wikimedia.org/wikipedia/commons/4/42/Java_logo_%282013%29.svg)
+
 ## 📬 Me encontre
 - **Email**: contatodavitoria@email.com
 - **LinkedIn**: https://www.linkedin.com/in/vitoria-manuela/
