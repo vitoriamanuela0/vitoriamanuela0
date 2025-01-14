@@ -6,7 +6,7 @@
 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explorando o mundo do desenvolvimento fullstack, com foco em JAVA ☕
 
 
-## Estudando:
+## Estudando 🚀:
 
 - **<Hello, ONE!/> - Oracle + Alura**
 - **BootCamp FullStack em Java e React - Generation Brasil**
@@ -16,12 +16,14 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 
 
-### 🚀 O que estou aprendendo
+## Habilidades técnicas:
 
-- **Bootcamp Generation Brasil**: Java, Spring, APIs, SQL, HTML, CSS, JavaScript e React.
-- **Curso Fullstack Vai na Web**: HTML, SCSS, JavaScript, React, Python, SQL.
+### - **Backend:** Java, APIs REST com Spring Boot,, JPA e Python;
+### - **Frontend:** HTML, CSS, JavaScript e React;
+### - **Banco de dados:** MySQL;
+### - **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
 
-### 📬 Me encontre
+## 📬 Me encontre
 - **Email**: contatodavitoria@email.com
 - **LinkedIn**: https://www.linkedin.com/in/vitoria-manuela/
 
