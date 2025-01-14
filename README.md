@@ -1,7 +1,8 @@
 # Olá, Mundo! Vitória Manuela aqui 👋
 
 <div style="text-align: center;">
-  <img src=(https://github.com/user-attachments/assets/359357b5-4744-47d0-bad9-dcacff8fbe88)
+  <img src=![readme__1_-removebg-preview](https://github.com/user-attachments/assets/d4cdffb3-f715-4f8a-845b-6b492c89bafc)
+
  />
 </div>
 
