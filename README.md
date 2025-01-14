@@ -14,14 +14,26 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 - **Análise e desenvovimento de sistemas - tecnólogo**
 - **Sitema da Informação - Bacharel**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 ## Habilidades técnicas:
 
-- **Backend:** Java, APIs REST com Spring Boot,, JPA e Python;
+- **Backend:** Java, APIs REST com Spring Boot, JPA e Python;
+
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,py,)](https://skillicons.dev)
+
 - **Frontend:** HTML, CSS, JavaScript e React;
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
 - **Banco de dados:** MySQL;
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  
 - **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord,postman,figma,windows,vercel)](https://skillicons.dev)
+
+- **IDEs:** [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
+
 
 
 ## 📬 Me encontre
