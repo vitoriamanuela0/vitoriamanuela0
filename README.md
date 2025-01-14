@@ -16,9 +16,9 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 ## Habilidades técnicas:
 
-- **Backend:** Java, APIs REST com Spring Boot, JPA e Python;
+- **Backend:** APIs REST Java com Spring Boot, JPA, e Python com Flask;
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,py,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,py,flask)](https://skillicons.dev)
 
 - **Frontend:** HTML, CSS, JavaScript e React;
 
@@ -28,18 +28,20 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   
-- **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
+- **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman;
 
    [![My Skills](https://skillicons.dev/icons?i=git,github,discord,postman,figma,windows,vercel)](https://skillicons.dev)
 
-- **IDEs:**
+- **IDEs:** Eclipse, VSCode e IntelliJ;
   
    [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
 
 
 
 ## 📬 Me encontre
-- **Email**: contatodavitoria@email.com
-- **LinkedIn**: https://www.linkedin.com/in/vitoria-manuela/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/danieldossantoslima/](https://www.linkedin.com/in/vitoria-manuela/))
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contatodavitoria@email.com)
+
 
   **"Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
