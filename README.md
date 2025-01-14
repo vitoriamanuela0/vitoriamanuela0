@@ -49,6 +49,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 <br>
 
+<br>
 ## 📬 Me encontre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-manuela/)
