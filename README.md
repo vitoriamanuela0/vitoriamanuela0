@@ -1,7 +1,7 @@
 # Olá, Mundo! Vitória Manuela aqui 👋
 
 <center>
-  <img src="https://github.com/user-attachments/assets/d4cdffb3-f715-4f8a-845b-6b492c89bafc" />
+  <img src="![flor-removebg-preview](https://github.com/user-attachments/assets/eea8a244-1022-4774-8b32-5a2fa10d989d)"/>
 </center>
 
 
