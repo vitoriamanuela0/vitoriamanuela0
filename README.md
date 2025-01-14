@@ -1,6 +1,7 @@
 # Olá, Mundo! Vitória Manuela aqui 👋
 
-![readme](https://github.com/user-attachments/assets/67cfaac4-50d4-4479-87a5-5fa46b5bb1d8)
+![readme](https://github.com/user-attachments/assets/b9c3ded1-eb0b-4be8-9880-16cbc402e857)
+
 
 ## Sou apaixonada por tecnologia e estou sempre em busca de soluções inovadoras ❤️💻
 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explorando o mundo do desenvolvimento fullstack, com foco em JAVA ☕
