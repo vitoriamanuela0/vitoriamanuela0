@@ -33,6 +33,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
    [![My Skills](https://skillicons.dev/icons?i=git,github,discord,postman,figma,windows,vercel)](https://skillicons.dev)
 
 - **IDEs:**
+  
    [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
 
 
