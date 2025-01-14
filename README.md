@@ -55,6 +55,10 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contatodavitoria@email.com)
 
 
+
+
+
+
 <br>
 
   ### "Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
