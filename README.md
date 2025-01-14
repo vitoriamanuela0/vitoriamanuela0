@@ -18,10 +18,14 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 ## Habilidades técnicas:
 
-### - **Backend:** Java, APIs REST com Spring Boot,, JPA e Python;
-### - **Frontend:** HTML, CSS, JavaScript e React;
-### - **Banco de dados:** MySQL;
-### - **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
+### - **Backend:** 
+Java, APIs REST com Spring Boot,, JPA e Python;
+### - **Frontend:** 
+HTML, CSS, JavaScript e React;
+### - **Banco de dados:** 
+MySQL;
+### - **Ferramentas:** 
+Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
 
 ## 📬 Me encontre
 - **Email**: contatodavitoria@email.com
