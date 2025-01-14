@@ -47,9 +47,9 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contatodavitoria@email.com)
 
 
-<div style="text-align: center;">
+<p align="center">
   ### **"Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
-</div>
+</p>
 
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoriamanuela0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamanuela0&layout=compact&langs_count=16&theme=gotham"/>
