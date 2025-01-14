@@ -63,6 +63,6 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 <br>
 
-  ### "Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
+  ### "Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."
 
 <br>
