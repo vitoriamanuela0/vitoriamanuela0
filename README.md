@@ -52,7 +52,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
   ### **"Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
 </div>
 
-
+<br>
 
 
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoriamanuela0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
