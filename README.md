@@ -18,7 +18,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 ## Habilidades técnicas:
 
-### - **Backend:** 
+- ### **Backend:** 
 Java, APIs REST com Spring Boot,, JPA e Python;
 ### - **Frontend:** 
 HTML, CSS, JavaScript e React;
