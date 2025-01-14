@@ -48,7 +48,12 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamanuela0&layout=compact&langs_count=16&theme=gotham"/>
 
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 ## 📬 Me encontre
 
