@@ -20,11 +20,11 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 - ### **Backend:** 
 Java, APIs REST com Spring Boot,, JPA e Python;
-### - **Frontend:** 
+- ### **Frontend:** 
 HTML, CSS, JavaScript e React;
-### - **Banco de dados:** 
+- ### **Banco de dados:** 
 MySQL;
-### - **Ferramentas:** 
+- ### **Ferramentas:** 
 Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
 
 ## 📬 Me encontre
