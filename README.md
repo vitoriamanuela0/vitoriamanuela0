@@ -41,6 +41,14 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
    [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
 
 
+<br>
+
+
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoriamanuela0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamanuela0&layout=compact&langs_count=16&theme=gotham"/>
+
+<br>
+
 ## 📬 Me encontre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-manuela/)
@@ -52,8 +60,3 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
   ### "Onde a tecnologia encontra a criatividade, surgem soluções que mudam vidas."**
 
 <br>
-
-
-<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoriamanuela0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamanuela0&layout=compact&langs_count=16&theme=gotham"/>
-
