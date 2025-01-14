@@ -41,10 +41,6 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
    [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
 
 
-![GitHub Snake](https://github.com/vitoriamanuela0/vitoriamanuela0/blob/output/github-contribution-grid-snake.svg)
-
-
-
 ## 📬 Me encontre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-manuela/)
