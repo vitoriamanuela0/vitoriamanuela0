@@ -22,18 +22,18 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explor
 
 - **Frontend:** HTML, CSS, JavaScript e React;
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 - **Banco de dados:** MySQL;
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   
 - **Ferramentas:** Git, GitHub, VSCode, Eclipse, Insomnia e Postman.
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,discord,postman,figma,windows,vercel)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=git,github,discord,postman,figma,windows,vercel)](https://skillicons.dev)
 
 - **IDEs:**
-- [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea)](https://skillicons.dev)
 
 
 
