@@ -10,7 +10,7 @@
 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e explorando o mundo do desenvolvimento fullstack, com foco em JAVA ☕
 
 
-## Estudando 🚀:
+## Estudando: 🚀
 
 - **<Hello, ONE!/> - Oracle + Alura**
 - **BootCamp FullStack em Java e React - Generation Brasil**
